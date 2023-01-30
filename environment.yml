@@ -7,7 +7,6 @@ dependencies:
   - r-devtools
   - r-caret
   - r-ggplot2
-  - r-gtrendsR
   - r-cowplot
   - r-gridExtra
   - r-corrplot
