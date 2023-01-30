@@ -1,0 +1,7 @@
+name: Repro_R
+dependencies:
+  - r-base=4.1
+  - r-shiny
+  - r-devtools
+  - r-caret
+  - r-ggplot2
