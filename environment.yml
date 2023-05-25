@@ -2,14 +2,9 @@ name: Repro_R
 channels:
  - conda-forge
 dependencies:
-  - r-base=4.2
-  - r-shiny
-  - r-devtools
-  - r-caret
-  - r-ggplot2
+  - r-base=4.1.3
+  - r-tidyverse
+  - r-lubridate
+  - r-mgcv
   - r-cowplot
-  - r-gridExtra
-  - r-corrplot
-  - r-ISOweek
-  - r-glmnet
-  - r-doParallel
+  - r-xtable
