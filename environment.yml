@@ -7,7 +7,6 @@ dependencies:
   - r-tidyverse
   - r-lubridate
   - r-mgcv
-  - r-mgcv.helper
   - r-emmeans
   - r-ggsignif
   - r-viridis
